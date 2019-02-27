@@ -1,0 +1,5 @@
+Asset clic droit -> show in explorer
+click droit -> git bash here
+git init = met git sur le proet
+git status = info sur le repertoire
+touch .gitignore = créer un fichier appller .gitignore
